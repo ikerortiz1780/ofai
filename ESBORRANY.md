@@ -6,6 +6,16 @@ destinada a brindar suport als metges (oftalmolegs) davant
 consultes o si aquestos necessiten ajuda.
 
 ## 2.INFRAESTRUCTURA
+Per desenvolupar el projecte OFAI, utilitzarem les tecnologies i els components següents:
+
+* Docker
+* Web Pública
+* Web Privada
+* Base de Dades
+* Intranet
+* Models d'IA
+* Maquinari	
+## 2.CONTEXT
 Per aquest projecte farem ús de dockers,
 una web publica (una per les diferents consultes dels usuaris),
 una web privada (per als professionals), una base de dades i una intranet. 
