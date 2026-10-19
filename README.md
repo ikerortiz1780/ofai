@@ -1,5 +1,4 @@
-# REPO test-smx2a
-
+# OFAI
   * A
   * B
   * C
